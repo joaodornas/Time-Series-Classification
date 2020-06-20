@@ -1,0 +1,2 @@
+model_checkpoint_path: "modelo_completo_pesos.hd5"
+all_model_checkpoint_paths: "modelo_completo_pesos.hd5"

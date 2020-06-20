@@ -1,0 +1,11 @@
+H --> healthy
+I --> inner race fault
+O --> outer race fault
+
+
+A --> increasing
+B --> decreasing
+C --> increasing then decreasing
+D --> decreasing then increasing
+
+1,2,3 --> trials

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Mancal", "Mancal\Mancal.pyproj", "{F5D73796-DA32-4F01-A868-F68AD1D74A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D73796-DA32-4F01-A868-F68AD1D74A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D73796-DA32-4F01-A868-F68AD1D74A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D299D52D-BF22-45F7-951D-E2DF7066E3C7}
+	EndGlobalSection
+EndGlobal
